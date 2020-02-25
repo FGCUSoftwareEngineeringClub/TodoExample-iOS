@@ -3,7 +3,7 @@ A very simple to do list app for anyone wanting to learn swift.
 
 ## Installation
 
-This was made using no 3rd party libraries to make it easy for anyone to download and press play in Xcode. 
+This app was made without any 3rd party libraries to make it easy for anyone to download and press play in Xcode. 
 
 
 ## License
